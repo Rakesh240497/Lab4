@@ -6,4 +6,8 @@ Next we check weather the directory is empyt or not if the directory is empyt we
 
 If all the above parameter safisfy we call the folder recursion function and do the iterations accordingly. 
 
-#. using the while loop we go till end the of the hierarchy
+1. using the while loop we go till end the of the hierarchy
+2. Next we check the wheathe the subdirectory has some files using if condition. 
+3. If there are files inside a directory we travers through the directory by using the recursive calls and updating the path, until the end of the subdirectory. 
+
+
